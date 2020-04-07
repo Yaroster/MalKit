@@ -6,7 +6,7 @@
 //  Copyright © 2017年 nktn. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import <UXKit/UXKit.h>
 
 //! Project version number for MalKit.
 FOUNDATION_EXPORT double MalKitVersionNumber;
