@@ -3,8 +3,10 @@
 [![Pod Platform](http://img.shields.io/cocoapods/p/MalKit.svg?style=flat)](http://cocoadocs.org/docsets/MalKit/)
 [![Pod License](http://img.shields.io/cocoapods/l/MalKit.svg?style=flat)](https://github.com/nktn/MalKit/blob/master/LICENSE)
 ![Swift version](https://img.shields.io/badge/swift-4.0-orange.svg)
-# MalKit
+# MalKit MacOS
 ====
+
+Experimental port of nktn's Malkit to MacOS 
 
 ## Description
 Swift API Client for MyAnimeList(official API)
