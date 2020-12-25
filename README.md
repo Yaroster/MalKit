@@ -1,13 +1,9 @@
-[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
-[![Pod Version](http://img.shields.io/cocoapods/v/MalKit.svg?style=flat)](http://cocoadocs.org/docsets/MalKit/)
-[![Pod Platform](http://img.shields.io/cocoapods/p/MalKit.svg?style=flat)](http://cocoadocs.org/docsets/MalKit/)
-[![Pod License](http://img.shields.io/cocoapods/l/MalKit.svg?style=flat)](https://github.com/nktn/MalKit/blob/master/LICENSE)
-![Swift version](https://img.shields.io/badge/swift-4.0-orange.svg)
 # MalKit MacOS
-====
 
-Experimental port of nktn's Malkit to MacOS 
+This is an experimental port of nktn's Malkit to Mac OS 10.14+ by @Yaroster
 
+
+--
 ## Description
 Swift API Client for MyAnimeList(official API)
 
