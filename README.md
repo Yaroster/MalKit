@@ -1,6 +1,6 @@
-# MalKit MacOS
+# MalKit-Mac
 
-This is an experimental port of nktn's Malkit to Mac OS 10.14+ by @Yaroster
+This is an experimental port of nktn's Malkit(iOS) to macOS
 
 
 --
